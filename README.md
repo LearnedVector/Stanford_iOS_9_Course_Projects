@@ -5,4 +5,4 @@ This repo holds all of the assignments for the online Stanford iOS 9 development
 
 ##Projects
 ####Calculator App
-This introduces how iOS MVC
+This introduces how iOS does MVC
